@@ -1,0 +1,3 @@
+Implemente a soma de pontos em curvas elípticas sobre corpos finitos. 
+A função deve receber os parâmetros da curva (coeficientes A e B), o módulo p e as coordenadas dos pontos a serem somados (deve ser feita a verificação para saber se os pontos de fato pertencem à curva). 
+Não se esqueça de estabelecer uma representação para o ponto no infinito.
